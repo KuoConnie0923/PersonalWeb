@@ -1540,3 +1540,7 @@ a.cd-read-more:hover {
 		float: left;
 	}
 }
+
+.testimonials .section-title{
+    padding: 115px 0 45px 0;
+}
