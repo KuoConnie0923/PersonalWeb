@@ -824,6 +824,7 @@ label {
 
 .clearfix {
 	position: relative;
+	padding: 0 0 0 130px;
 }
 
 .s-repeatable {
