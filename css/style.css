@@ -849,6 +849,42 @@ label {
 	}
 }
 
+@media only screen and (max-width: 429px) and (min-width: 370px){
+.container .column, .container .columns, .container .eight.columns, .container .eleven.columns, .container .fifteen.columns, .container .fifth.column, .container .fifth.columns, .container .five.columns, .container .four-fifths.columns, .container .four.columns, .container .fourteen.columns, .container .nine.columns, .container .one-third.column, .container .one.column, .container .one.columns, .container .seven.columns, .container .six.columns, .container .sixteen.columns, .container .sixth.column, .container .sixth.columns, .container .ten.columns, .container .third.column, .container .third.columns, .container .thirteen.columns, .container .three-fifths.columns, .container .three.columns, .container .twelve.columns, .container .two-fifths.columns, .container .two-thirds.column, .container .two.columns {
+    margin-left: 8px;
+    margin-right: 8px;
+    width: 320px;
+}}
+@media only screen and (max-width: 429px) and (min-width: 370px){
+.container .columns, .container .five.columns, .container .nine.columns, .container .sixteen.columns {
+    margin-left: 8px;
+    margin-right: 8px;
+    width: 320px;
+}}
+@media only screen and (max-width: 429px) and (min-width: 370px){
+.container .offset-eight, .container .offset-eleven, .container .offset-fifteen, .container .offset-five, .container .offset-four, .container .offset-fourteen, .container .offset-nine, .container .offset-one, .container .offset-seven, .container .offset-six, .container .offset-ten, .container .offset-thirteen, .container .offset-three, .container .offset-twelve, .container .offset-two {
+    padding-left: 0;
+}}
+
+@media only screen and (max-width: 429px) and (min-width: 370px){
+.container .columns, .container .sixteen.columns {
+    margin-left: 8px;
+    margin-right: 8px;
+    width: 320px;
+}}
+@media only screen and (max-width: 429px) and (min-width: 370px){
+.container .offset-one {
+    padding-left: 0;
+}}
+@media only screen and (max-width: 727px){
+.s-section.s-block-section .s-item-media-group, .s-section.s-media-section .s-item-media-group, .s-section.s-rows-section .s-item-media-group, .s-section.s-text-section .s-item-media-group {
+    margin-bottom: 15px;
+}}
+@media only screen and (max-width: 727px){
+.s-section.s-rows-section .s-item-media-group {
+    margin-bottom: 15px;
+}}
+
 /*image*/
 
 @media only screen and (min-width: 728px) {
